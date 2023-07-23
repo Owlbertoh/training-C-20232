@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-// Fazendo um quadrado magico
+// Verificando se um quadrado é um quadrado magico
 void main () {
     int  l, c, tamL=3, tamC=3;
     int  somat, soma, erro = 0;
